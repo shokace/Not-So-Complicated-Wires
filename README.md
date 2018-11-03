@@ -14,3 +14,7 @@ Friend1: Perfect, we finish in record time!
 Be more like Friend1 and Friend2 and use my beautiful program, and maybe make it better if you'd like?
 
 -Petar Juric
+
+
+
+By the Huevos, all of this is written with Qt5. Compiled with MinGW32. Good luck. :D
