@@ -1,6 +1,6 @@
 # Not-So-Complicated-Wires
 Keep Talking And Nobody Explodes Tool
-DOWNLOAD HERE -> https://sourceforge.net/projects/not-so-complicated-wires/
+[Download Here](https://sourceforge.net/projects/not-so-complicated-wires/)
 
 Ok, so we all know complicated wires are... complicated. 
 
